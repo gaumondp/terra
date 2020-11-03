@@ -4,7 +4,7 @@
 
 #include <string>
 
-#define MAX_DELAY static_cast<size_t>(48000 * 1.f)
+#define MAX_DELAY static_cast<size_t>(48000 * 30.f)
 
 using namespace daisy;
 using namespace daisysp;
